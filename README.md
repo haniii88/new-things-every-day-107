@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 107 */
+/* New Things Every Day — Day 107 */
 /* Groups items by category and counts them */
 
 function dailyLog107() {
